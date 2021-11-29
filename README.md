@@ -1,2 +1,2 @@
-# mobx-fast-test
-mobx-fast-test
+# nextjs-test
+nextjs-test
