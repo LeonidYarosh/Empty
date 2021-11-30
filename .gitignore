@@ -32,3 +32,41 @@ yarn-error.log*
 
 # vercel
 .vercel
+node_modules
+
+# Отчеты по тестированию складываются в данную папку
+reports
+
+target
+target-dev
+target-demo
+
+/npm-debug.log*
+/node_modules/*
+/target
+/reports
+
+coverage
+
+# Vendor dll build
+dlls
+
+.idea
+.sonarlint
+.history
+.env
+.vscode
+
+.nyc_output
+
+.npmrc
+.yarnrc
+package-lock.json
+
+__diff_output__
+
+# snapshots
+**/__image_snapshots__/*#*actual*
+**/__image_snapshots__/*#*diff*
+**/e2e/screenshots
+
